@@ -1,0 +1,133 @@
+# Python To-Do List (Task Manager)
+
+A simple command-line **To-Do List application written in Python**.
+This program allows users to **add tasks, view tasks, and remove tasks**, storing them in a text file so tasks remain saved even after the program closes.
+
+---
+
+## Features
+
+* Add tasks with a specific time
+* View all saved tasks
+* Remove completed or unwanted tasks
+* Tasks are saved in a `task.txt` file
+* Simple and beginner-friendly Python code
+
+---
+
+## How It Works
+
+The program uses basic Python concepts such as:
+
+* Functions
+* File handling
+* User input
+* Reading and writing to text files
+
+Tasks are stored in a file called **task.txt** in the following format:
+
+```
+10:00 - Study Python
+14:30 - Do Mathematics assignment
+18:00 - Gym
+```
+
+---
+
+## Installation
+
+1. Make sure Python is installed on your computer.
+
+Check with:
+
+```
+python --version
+```
+
+2. Clone the repository:
+
+```
+git clone https://github.com/yourusername/todo-list-python.git
+```
+
+3. Navigate into the project folder:
+
+```
+cd todo-list-python
+```
+
+---
+
+## Running the Program
+
+Run the Python file from the terminal:
+
+```
+python todo.py
+```
+
+---
+
+## Example Usage
+
+```
+1. Add Task
+2. Show Tasks
+3. Remove Task
+4. Exit
+```
+
+Example:
+
+```
+Enter Time: 10:00
+Enter Task: Study Computer Architecture
+```
+
+Output:
+
+```
+10:00 - Study Computer Architecture
+```
+
+---
+
+## Project Structure
+
+```
+todo-list-python
+│
+├── todo.py
+├── task.txt
+└── README.md
+```
+
+---
+
+## Learning Purpose
+
+This project helps beginners practice:
+
+* Python functions
+* File input/output
+* Basic program structure
+* Building small real-world tools
+
+---
+
+## Future Improvements
+
+Possible upgrades:
+
+* Add task completion checkbox
+* Add task priority
+* Add task deadlines
+* Build a graphical interface (Tkinter)
+* Store tasks using JSON instead of text
+
+---
+
+## Author
+
+Created by **Joshua makwale**
+Computer Science Student
