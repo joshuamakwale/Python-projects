@@ -19,9 +19,9 @@ A simple desktop **Student Management System** built using **Python Tkinter** an
 ## How to Run
 
 1. Clone the repository
-
+https://github.com/joshuamakwale/Python-projects/edit/main/STUDENT-MANAGEMENT%20SYSTEM/
 ```
-git clone https:/joshuamakwale/github.com//student-management-system.git
+git clone 
 ```
 
 2. Run the program
