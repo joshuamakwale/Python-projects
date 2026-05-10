@@ -1,0 +1,30 @@
+...Scraping book data from the website...
+
+Title: The Most Perfect Thing: Inside (and Outside) a Bird's Egg, Price: £42.96, Availability: In stock
+
+Title: Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine, Price: £57.36, Availability: In stock
+
+Title: Sorting the Beef from the Bull: The Science of Food Fraud Forensics, Price: £44.74, Availability: In stock
+
+Title: Tipping Point for Planet Earth: How Close Are We to the Edge?, Price: £37.55, Availability: In stock
+
+Title: The Fabric of the Cosmos: Space, Time, and the Texture of Reality, Price: £55.91, Availability: In stock
+
+Title: Diary of a Citizen Scientist: Chasing Tiger Beetles and Other New Ways of Engaging the World, Price: £28.41, Availability: In stock
+
+Title: The Origin of Species, Price: £10.01, Availability: In stock
+
+Title: The Grand Design, Price: £13.76, Availability: In stock
+
+Title: Peak: Secrets from the New Science of Expertise, Price: £16.28, Availability: In stock
+
+Title: The Elegant Universe: Superstrings, Hidden Dimensions, and the Quest for the Ultimate Theory, Price: £13.03, Availability: In stock
+
+Title: The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements, Price: £57.35, Availability: In stock
+
+Title: Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character, Price: £25.83, Availability: In stock
+
+Title: Seven Brief Lessons on Physics, Price: £30.60, Availability: In stock
+
+Title: The Selfish Gene, Price: £29.45, Availability: In stock
+
